@@ -75,10 +75,16 @@ BranchName
         }
     }
     7. pull Request {
+<<<<<<< HEAD
         1. git pull <is a pull request >
     }
 
     8. check the a numebr of commit by usin this command > git log
 
+=======
+        1. 
+    }
+
+>>>>>>> b6b67ba73b7e4be4f7a2d281c9d2620faa3c0631
 
 }
