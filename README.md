@@ -27,7 +27,7 @@
 22. workflow on github {
     1. create a new repo on github
     2. clone the repo on local machine
-    3. create a new branch
+    3. create a new branch checkout 
     4. make changes in the branch
     5. commit the changes
     6. push the changes to remote 
